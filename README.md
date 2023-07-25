@@ -49,22 +49,35 @@ junior developer with interests in technology and art, I like to be creative and
 
 <br/>  
 
-#<div align="center">
+<h1 align="center">🕹️STATS</h1>
+
+###
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JuanDavidEscalanteCastaneda-Campus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanDavidEscalanteCastaneda-Campus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=JuanDavidEscalanteCastaneda-Campus&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10&date_format=M j[, Y]&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
+</br>
 
-<h1 align="center">🕹️STATS</h1>
+<h1 align="center">📱SOCIAL NETWORKS</h1>
 
 ###
 
-# 📱SOCIAL NETWORKS
+<img src="https://raw.githubusercontent.com/JuanDavidEscalanteCastaneda-Campus/JuanDavidEscalanteCastaneda-Campus/output/snake.svg" alt="Snake animation" />
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tackosday) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/escalantedeveloper) 
+###
 
-![snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="60" height="40" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="60" height="40" alt="microsoft-outlook logo"  />
+</div>
+
+###
 
 
