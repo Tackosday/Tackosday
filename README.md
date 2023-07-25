@@ -11,6 +11,7 @@ junior developer with interests in technology and art, I like to be creative and
 
 # 💻MY TECH STACK 
 <table><tr><td valign="top" width="33%">
+  
 ### Frontend  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -49,9 +50,14 @@ junior developer with interests in technology and art, I like to be creative and
 <br/>  
 
 # 🕹️STATS
-![](https://github-readme-stats.vercel.app/api?username=JuanDavidEscalanteCastaneda-Campus&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JuanDavidEscalanteCastaneda-Campus&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDavidEscalanteCastaneda-Campus&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<table><tr><td valign="top" width="50%">
+  
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanDavidEscalanteCastaneda-Campus&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="perfil">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDavidEscalanteCastaneda-Campus&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="perfil">
+</div>
+
+</td></tr></table> 
 
 <br/>  
 
