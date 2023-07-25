@@ -3,13 +3,13 @@
 </p>
 
 
-# WHO I AM??  
+#  👨‍🚀WHO I AM?? 
 
 junior developer with interests in technology and art, I like to be creative and see things from different angles of view, I like to learn a little about everything even though I focus on programming, I know that one day I will be able to contribute my grain of sand to progress...
 
 <br/>  
 
-# MY TECH STACK 
+# 💻MY TECH STACK 
 <table><tr><td valign="top" width="33%">
 ### Frontend  
 <div align="center">  
@@ -48,12 +48,12 @@ junior developer with interests in technology and art, I like to be creative and
 
 <br/>  
 
-# STATS
+# 🕹️STATS
 ![](https://github-readme-stats.vercel.app/api?username=JuanDavidEscalanteCastaneda-Campus&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JuanDavidEscalanteCastaneda-Campus&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDavidEscalanteCastaneda-Campus&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-# SOCIAL NETWORKS
+# 📱SOCIAL NETWORKS
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tackosday) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/escalantedeveloper) 
 
