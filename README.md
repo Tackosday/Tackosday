@@ -3,7 +3,6 @@
 <p align="center"># WHO I AM?? </p>
 junior developer with interests in technology and art, I like to be creative and see things from different angles of view, I like to learn a little about everything even though I focus on programming, I know that one day I will be able to contribute my grain of sand to progress...
 
-![snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 <p align="center"># MY TECH STACK </p>
 <table><tr><td valign="top" width="33%">
@@ -48,6 +47,8 @@ junior developer with interests in technology and art, I like to be creative and
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+
+![snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 
 
