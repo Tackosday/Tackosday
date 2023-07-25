@@ -1,10 +1,15 @@
-![perfil](https://github.com/JuanDavidEscalanteCastaneda-Campus/JuanDavidEscalanteCastaneda-Campus/blob/main/images/perfil.gif?raw=true)
+<p align="center">
+  <img src="https://github.com/JuanDavidEscalanteCastaneda-Campus/JuanDavidEscalanteCastaneda-Campus/blob/main/images/perfil.gif" alt="perfil">
+</p>
 
-<p align="center"># WHO I AM?? </p>
+
+# WHO I AM??  
+
 junior developer with interests in technology and art, I like to be creative and see things from different angles of view, I like to learn a little about everything even though I focus on programming, I know that one day I will be able to contribute my grain of sand to progress...
 
+<br/>  
 
-<p align="center"># MY TECH STACK </p>
+# MY TECH STACK 
 <table><tr><td valign="top" width="33%">
 ### Frontend  
 <div align="center">  
@@ -43,13 +48,15 @@ junior developer with interests in technology and art, I like to be creative and
 
 <br/>  
 
-<p align="center"># STATS </p>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+# STATS
+![](https://github-readme-stats.vercel.app/api?username=JuanDavidEscalanteCastaneda-Campus&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JuanDavidEscalanteCastaneda-Campus&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDavidEscalanteCastaneda-Campus&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<br/>  
+# SOCIAL NETWORKS
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tackosday) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/escalantedeveloper) 
 
 ![snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
-
 
 
