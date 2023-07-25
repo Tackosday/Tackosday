@@ -6,7 +6,7 @@ junior developer with interests in technology and art, I like to be creative and
 ![snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 <p align="center"># MY TECH STACK </p>
-
+<table><tr><td valign="top" width="33%">
 ### Frontend  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
