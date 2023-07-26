@@ -17,10 +17,13 @@
 </br>
 </br>
 </br>
-<h1 align="center">💻 MY TECH STACK</h1>
+<h1 align="center">💻 MY TECH STACK 💻</h1>
 
 ###
+<h3 align="center">In my technological stack I have the programs that I manage as a junior programmer, little by little I will build according to my knowledge in programming to generate more and more learning...</h3>
 
+###
+<br
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="75" alt="javascript logo"  />
   <img width="12" />
@@ -51,7 +54,7 @@
 
 <br/>  
 
-<h1 align="center">🕹️STATS</h1>
+<h1 align="center">🕹️ STATS 🕹️</h1>
 
 ###
 
@@ -64,7 +67,7 @@
 ###
 </br>
 
-<h1 align="center">📱SOCIAL NETWORKS</h1>
+<h1 align="center">📱SOCIAL NETWORKS 📱</h1>
 
 ###
 
@@ -83,3 +86,4 @@
 
 ###
 
+<h3 align="center">- I'm tackosday the developer -</h3>
