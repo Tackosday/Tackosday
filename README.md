@@ -87,3 +87,9 @@
 ###
 
 <h3 align="center">- I'm tackosday the developer -</h3>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/JuanDavidEscalanteCastaneda-Campus/count.svg?"  />
+</div>
+
+###
