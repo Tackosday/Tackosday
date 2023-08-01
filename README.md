@@ -17,6 +17,26 @@
 </br>
 </br>
 </br>
+<h1 align="center">PLAY MUSIC!</h1>
+
+###
+
+<img align="right" height="450" src="https://1.bp.blogspot.com/-Lp7av8x9T4c/XXrzogtAAtI/AAAAAAAAhbs/Zmeye5w5iGgZhtMvOMVHvacS9yfluOPigCLcBGAsYHQ/s640/1a9daeb54d20147e085ad4467c69104b.gif"  />
+
+###
+
+<h3 align="center">As I have always said...<br> "everything is better if there is music" <br>-Tackosday-</h3>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31y342epyr5evbzw4sbo42ko6euu" alt="Spotify recently played"  />
+</div>
+
+###
+</br>
+</br>
+</br>
 <h1 align="center">💻 MY TECH STACK 💻</h1>
 
 ###
@@ -82,11 +102,13 @@
 
 ###
 
+  <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuanDavidEscalanteCastaneda-Campus/JuanDavidEscalanteCastaneda-Campus/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JuanDavidEscalanteCastaneda-Campus/JuanDavidEscalanteCastaneda-Campus/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JuanDavidEscalanteCastaneda-Campus//output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JuanDavidEscalanteCastaneda-Campus//output/github-contribution-grid-snake.svg" align="center">
 </picture>
+    </div>
 
 <h3 align="center">- I'm tackosday the developer -</h3>
 
