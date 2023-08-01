@@ -1,5 +1,7 @@
+
+<h1 align="center"><p>< WELCOME DEVELOPERS /></p></h1>
 <p align="center">
-  <img src="https://github.com/JuanDavidEscalanteCastaneda-Campus/JuanDavidEscalanteCastaneda-Campus/blob/main/images/perfil.gif" alt="perfil">
+  <img src="https://github.com/JuanDavidEscalanteCastaneda-Campus/JuanDavidEscalanteCastaneda-Campus/blob/main/images/perfil.gif" alt="perfil"height="300">
 </p>
 
 <h1 align="center">👨‍🚀 ABOUT ME ?</h1>
@@ -17,7 +19,7 @@
 </br>
 </br>
 </br>
-<h1 align="center">PLAY MUSIC!</h1>
+<h1 align="center">🎸 PLAY MUSIC! 🎧</h1>
 
 ###
 
