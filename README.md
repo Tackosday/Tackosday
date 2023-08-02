@@ -1,7 +1,7 @@
 
 <h1 align="center"><p>< WELCOME DEVELOPERS /></p></h1>
 <p align="center">
-  <img src="https://github.com/JuanDavidEscalanteCastaneda-Campus/JuanDavidEscalanteCastaneda-Campus/blob/main/images/perfil.gif" alt="perfil"height="300">
+  <img src="https://github.com/JuanDavidEscalanteCastaneda-Campus/JuanDavidEscalanteCastaneda-Campus/blob/main/images/perfil.gif">
 </p>
 
 <h1 align="center">👨‍🚀 ABOUT ME ?</h1>
