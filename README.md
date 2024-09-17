@@ -13,7 +13,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif"  />
+<img align="right" height="210" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif"  />
 
 ###
 
@@ -56,7 +56,7 @@
 ###
 
 <div align="center">
-  <img height="220" src="https://github.com/Tackosday/Tackosday/blob/main/images/Portafolio.png?raw=true"  />
+  <img height="200" src="https://github.com/Tackosday/Tackosday/blob/main/images/Portafolio.png?raw=true"  />
 </div>
 
 ###
