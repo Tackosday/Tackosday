@@ -55,8 +55,10 @@
 
 ###
 
-<div align="center" href="https://tackosday.github.io/Portafolio/">
+<div align="center" >
+  <a href="https://tackosday.github.io/Portafolio/">
   <img height="200" src="https://github.com/Tackosday/Tackosday/blob/main/images/Portafolio.png?raw=true"  />
+  </a>
 </div>
 
 ###
