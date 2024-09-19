@@ -20,6 +20,9 @@
 <p align="center">I am a curious and detail-oriented person, always looking to improve my skills and learn new technologies. I have worked on projects ranging from simple web applications to small databases, and I am excited about the opportunity to face new challenges that will allow me to further develop my skills.<br>My goal is to continue to grow in the programming field, applying my knowledge to solve problems and create efficient solutions.</p>
 
 ###
+<br>
+<br>
+<br>
 
 <h2 align="center">🕹️Tech stack!!</h2>
 
