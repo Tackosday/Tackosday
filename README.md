@@ -8,6 +8,9 @@
 </div>
 
 ###
+<br>
+<br>
+<br>
 
 <h2 align="center">🧐About me...</h2>
 
@@ -53,6 +56,9 @@
 </div>
 
 ###
+<br>
+<br>
+<br>
 
 <h2 align="center">🧑‍💻Chek My Portfolio</h2>
 
@@ -65,8 +71,11 @@
 </div>
 
 ###
+<br>
+<br>
+<br>
 
-<h2 align="center">Social Network</h2>
+<h2 align="center">🪄Social Network</h2>
 
 ###
 
